@@ -1,0 +1,34 @@
+_repo: Fundamentals-of-Prosperity--What-They-Are-and-Whence-They-Come_21502
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21502-h/images/cover.png
+creator:
+  author:
+    agent_name: Babson, Roger Ward
+    birthdate: 1875
+    deathdate: 1967
+    gutenberg_agent_id: '24754'
+    url: http://www.gutenberg.org/2009/agents/24754
+    wikipedia: http://en.wikipedia.org/wiki/Roger_Babson
+description: '"People have forgotten the gospel of service. The producing power per
+  man has fallen off from fifteen to twenty percent. We have all been keen on developing
+  consumption. We have devoted nine-tenths of our thought, energy and effort to developing
+  consumption. This message is to beg of every reader to give more thought to developing
+  production, to the reviving of a desire to produce and the realization of joy in
+  production."--Foreword.'
+gutenberg_issued: '2007-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21502'
+  lccn: '20020936'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HF'
+- !lcsh 'Business'
+- !lcsh 'Success'
+title: 'Fundamentals of Prosperity: What They Are and Whence They Come'
+url: http://www.gutenberg.org/ebooks/21502
